@@ -15,7 +15,7 @@ class _AppShellState extends State<AppShell> {
 
   final List<Widget> _pages = const [
     ClassesPage(),
-    FeedbacksPage(),
+    FeedbackClassesPage(),
     ProfilePage(),
   ];
 
